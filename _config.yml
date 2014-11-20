@@ -4,8 +4,8 @@ highlighter: true
 permalink: /:year/:month/:day/:title.html
 name: "年兽的抽屉"
 
-author: "mamin506
-disqus: ""  # register a disqus account if need
+author: "mamin506"
+#disqus: ""  # register a disqus account if need
 
 navigations:
     - title: Archive
