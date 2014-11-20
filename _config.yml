@@ -1,5 +1,6 @@
-markdown: rdiscount
+#markdown: rdiscount
 #pygments: true
+markdown: kramdown
 highlighter: true
 permalink: /:year/:month/:day/:title.html
 name: "年兽的抽屉"
