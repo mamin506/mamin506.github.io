@@ -18,6 +18,6 @@ int main(int argc, char* argv[]) {
 }
 ```
 
-$$E=m*c^2$$
+$$E=mc^2$$
 
 {{ page.date | date_to_string }}
