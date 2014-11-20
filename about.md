@@ -14,7 +14,3 @@ Who involved in
 Mail 
 
 > mamin506@gmail.com
-
-[](or follow)
-
-[](> [@o_lll](https://twitter.com/#!/o_lll))
