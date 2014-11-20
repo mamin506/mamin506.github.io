@@ -5,6 +5,9 @@ highlighter: true
 permalink: /:year/:month/:day/:title.html
 name: "年兽的抽屉"
 
+kramdown:
+    input: GFM
+
 author: "mamin506"
 #disqus: ""  # register a disqus account if need
 
