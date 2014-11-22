@@ -3,7 +3,7 @@
 markdown: kramdown
 highlighter: true
 permalink: /:year/:month/:day/:title.html
-name: "年兽的抽屉"
+name: "Min's code drawer"
 
 kramdown:
     input: GFM
