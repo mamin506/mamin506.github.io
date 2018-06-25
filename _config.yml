@@ -7,7 +7,7 @@ name: "Min's code drawer"
 
 kramdown:
     input: GFM
-remote_theme: Huxpro/huxblog-boilerplate
+theme: minima
 author: "mamin506"
 #disqus: ""  # register a disqus account if need
 
